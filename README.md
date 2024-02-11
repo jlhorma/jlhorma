@@ -1,6 +1,6 @@
-Para el mantenimiento de hormaetxea.com personal site.
-- 👋 Hi, I’m @jlhorma
-- 🌱 I’m currently learning ...
+
+Hi, I’m @jlhorma
+I’m currently learning ...
 
 <!---
 jlhorma/jlhorma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
